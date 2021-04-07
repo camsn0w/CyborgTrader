@@ -1,4 +1,4 @@
-module CyborgTrader
+module cyborgtrader
 
 go 1.16
 
